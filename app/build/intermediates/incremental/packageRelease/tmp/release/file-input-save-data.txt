@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jul 08 13:10:11 NZST 2019
+0.baseType=DIRECTORY
+0.base=/home/dan/AndroidStudioProjects/TeaTime/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1
