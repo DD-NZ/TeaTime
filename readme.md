@@ -1,5 +1,5 @@
-# Tea Time
-Wireless temperature sensor. Android app which interacts via bluetooth with Bluno Beetle
+# TeaTime
+Wireless temperature sensor. Android app which interacts via bluetooth with Bluno Beetle. Developed with intent to place sensor in a cup of Tea and receive a notification to my phone when the tea is at my desired temperature.
 
 ## Device
 Bluno Beetle, powered by two cr2032 in series to make 6V. Temperature read using a ds18b20 sensor.
