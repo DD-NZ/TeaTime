@@ -1,0 +1,4 @@
+#Mon Jul 08 13:10:11 NZST 2019
+base.0=/home/dan/AndroidStudioProjects/TeaTime/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

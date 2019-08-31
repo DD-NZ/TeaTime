@@ -1,0 +1,2 @@
+rootProject.name='TeaTime'
+include ':app'

@@ -1,4 +1,0 @@
-#Tue Jul 09 22:42:02 NZST 2019
-base.0=/home/dan/AndroidStudioProjects/TeaTime/app/build/intermediates/transforms/dexMerger/debug/5
-path.0=classes.dex
-renamed.0=classes.dex
