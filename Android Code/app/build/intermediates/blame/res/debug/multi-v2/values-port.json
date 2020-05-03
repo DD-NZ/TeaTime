@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dan/AndroidStudioProjects/TeaTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\dando\\Documents\\android\\TeaTime\\Android Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "/home/dan/.gradle/caches/transforms-2/files-2.1/da666c8620a4695748ca7e920cc099d4/res/values-port/values-port.xml",
+                    "source": "C:\\Users\\dando\\.gradle\\caches\\transforms-2\\files-2.1\\d51c9d809ab7da82a1644dff06465edb\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

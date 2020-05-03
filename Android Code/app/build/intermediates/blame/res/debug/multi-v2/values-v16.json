@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dan/AndroidStudioProjects/TeaTime/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\Users\\dando\\Documents\\android\\TeaTime\\Android Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/home/dan/.gradle/caches/transforms-2/files-2.1/da666c8620a4695748ca7e920cc099d4/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\dando\\.gradle\\caches\\transforms-2\\files-2.1\\2ddf2136a4f28688c6160ea93aa6bb06\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dando\\.gradle\\caches\\transforms-2\\files-2.1\\d51c9d809ab7da82a1644dff06465edb\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/home/dan/.gradle/caches/transforms-2/files-2.1/7c91e72f8d48f6730e365dd64a667441/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

@@ -693,12 +693,16 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id connectButton
+id connection_state
 id content
 id contentPanel
 id custom
 id customPanel
+id data_value
 id decor_content_parent
 id default_activity_button
+id device_address
+id device_name
 id dimensions
 id direct
 id disableHome
@@ -710,6 +714,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id gatt_services_list
 id gone
 id group_divider
 id groups
@@ -731,6 +736,8 @@ id list_item
 id menu_connect
 id menu_disconnect
 id menu_refresh
+id menu_scan
+id menu_stop
 id message
 id middle
 id multiply
@@ -836,7 +843,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout actionbar_indeterminate_progress
 layout control_layout
+layout gatt_services_characteristics
+layout listitem_device
 layout main_layout
 layout notification_action
 layout notification_action_tombstone
@@ -849,6 +859,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu gatt_services
+menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description

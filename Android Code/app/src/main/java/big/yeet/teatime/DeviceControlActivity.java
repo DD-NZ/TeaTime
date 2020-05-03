@@ -146,7 +146,7 @@ public class DeviceControlActivity extends AppCompatActivity {
         }
         NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(getApplicationContext(), "YOUR_CHANNEL_ID")
                 .setSmallIcon(R.mipmap.ic_launcher) // notification icon
-                .setContentTitle("Yeet") // title for notification
+                .setContentTitle("Tea Time") // title for notification
                 .setContentText("Your Tea is Ready")// message for notification
                 .setAutoCancel(true) // clear notification after click
                 .setPriority(NotificationCompat.PRIORITY_HIGH)

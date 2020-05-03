@@ -36,6 +36,7 @@
             android:ems="10"
             android:gravity="center"
             android:inputType="number"
+            android:shadowColor="#FFFFFF"
             android:textAlignment="center"
             android:textColor="@color/orange"
             android:textColorHighlight="@color/orange"
@@ -51,7 +52,8 @@
             android:layout_margin="50dp"
             android:background="@drawable/button_background"
             android:onClick="notificationButton_Click"
-            android:text="Set Notification" />
+            android:text="Set Notification"
+            android:textColor="@android:color/background_light" />
     </LinearLayout>
 
 </LinearLayout>
