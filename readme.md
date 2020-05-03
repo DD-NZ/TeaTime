@@ -17,10 +17,10 @@ Once the device has been switched on you can press the connect button, the app w
 
 Once connected the app will display the temperature read from the device, updating every second.
 
-<img src="Images/connected.jpg" height="562px" width="270px"/>
+<img src="Images/setNotification.jpg" height="562px" width="270px"/>
 
 ## notifications
 
 From this screen you can input a temperature you want the phone to send a notification when it reaches this temperature.
 
-<img src="Images/setNotification.jpg" height="562px" width="270px"/>
+<img src="Images/notification.jpg" height="562px" width="270px"/>
